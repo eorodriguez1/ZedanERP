@@ -1,0 +1,2 @@
+# ZedanERP
+Basic ERP prototype
